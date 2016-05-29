@@ -1,0 +1,31 @@
+{
+  "name": "next-plumber",
+  "version": "0.0.1",
+  "description": "For hapi based projects, connect routes & controller",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "lodash": "^4.5.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ubaltaci/next-plumber.git"
+  },
+  "keywords": [
+    "next-plumber",
+    "plumber",
+    "kns"
+  ],
+  "author": {
+    "name": "Uğur Baltacı",
+    "email": "ugur@kns.com.tr",
+    "web": "http://www.ugurbaltaci.com"
+  },
+  "maintaners": {
+    "name": "Çağdaş Akar",
+    "email": "cagdas@kns.com.tr",
+    "web": "http://www.cagdasakar.com"
+  },
+  "license": "MIT"
+}
