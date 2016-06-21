@@ -1,9 +1,10 @@
 {
   "name": "next-plumber",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "For hapi based projects, connect routes & controller",
   "main": "index.js",
   "dependencies": {
+    "callsite": "^1.0.0",
     "colors": "^1.1.2",
     "lodash": "^4.5.1"
   },
