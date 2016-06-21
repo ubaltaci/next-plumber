@@ -1,6 +1,6 @@
 {
   "name": "next-plumber",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "For hapi based projects, connect routes & controller",
   "main": "index.js",
   "dependencies": {
